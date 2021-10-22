@@ -25,7 +25,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\": \"Andres Cordova\",\r\n    \"username\": \"acordova\",\r\n    \"email\": \"acrdova@gmail.com\",\r\n    \"password\":\"123\"\r\n}",
+							"raw": "{\r\n    \"name\": \"jp\",\r\n    \"username\": \"jp\",\r\n    \"email\": \"jp@gmail.com\",\r\n    \"password\":\"123\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
